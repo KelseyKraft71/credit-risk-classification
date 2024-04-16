@@ -1,4 +1,5 @@
-# credit-risk-classification
+# Credit Risk Classification Challenge
+
 ## Overview of the Analysis
 
 This analysis focused on determining whether a loan is high or low-risk based on a synthetic dataset of historical lending activity from a peer-to-peer lending services company. The model was trained and evaluated on this data in order to determine the creditworthiness of future borrowers.
