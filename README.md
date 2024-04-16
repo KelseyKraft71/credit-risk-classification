@@ -1,5 +1,8 @@
 # Credit Risk Classification Challenge
 
+<p>You will find in this repo a machine learning model meant to predict the creditworthiness of future borrowers for a fictional lending services company. </p>
+<p>This assignment was completed with no outside help, just a quick review of class materials.</p>
+
 ## Overview of the Analysis
 
 This analysis focused on determining whether a loan is high or low-risk based on a synthetic dataset of historical lending activity from a peer-to-peer lending services company. The model was trained and evaluated on this data in order to determine the creditworthiness of future borrowers.
